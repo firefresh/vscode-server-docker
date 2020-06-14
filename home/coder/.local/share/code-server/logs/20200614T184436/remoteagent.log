@@ -1,0 +1,53 @@
+[2020-06-14 18:44:36.699] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:44:39.406] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:44:51.105] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:44:51.105] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:46:05.316] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:46:10.125] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:46:10.126] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:47:11.968] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:47:17.577] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:47:17.578] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:51:51.133] [remoteagent] [error] Extension host stderr events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:100:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+
+[2020-06-14 20:24:19.971] [remoteagent] [info] Installing the extension: equinusocio.vsc-material-theme
+[2020-06-14 20:24:20.503] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.equinusocio.vsc-material-theme-32.6.0: equinusocio.vsc-material-theme
+[2020-06-14 20:24:20.505] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/equinusocio.vsc-material-theme-32.6.0
+[2020-06-14 20:24:20.507] [remoteagent] [info] Installation completed. equinusocio.vsc-material-theme
+[2020-06-14 20:24:20.845] [remoteagent] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2020-06-14 20:24:21.169] [remoteagent] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /tmp/40e777bb-c24d-4d39-8d3b-a111f5a6e30e
+[2020-06-14 20:24:23.737] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.equinusocio.vsc-material-theme-icons-1.2.0: equinusocio.vsc-material-theme-icons
+[2020-06-14 20:24:23.737] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/equinusocio.vsc-material-theme-icons-1.2.0
+[2020-06-14 20:24:23.740] [remoteagent] [info] Installation completed. equinusocio.vsc-material-theme-icons
+[2020-06-14 20:24:23.746] [remoteagent] [info] Extensions installed successfully: equinusocio.vsc-material-theme-icons
+[2020-06-14 20:24:23.756] [remoteagent] [info] Successfully installed the extension: equinusocio.vsc-material-theme
+[2020-06-14 20:24:50.962] [remoteagent] [info] Installing the extension: esbenp.prettier-vscode
+[2020-06-14 20:24:51.560] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.esbenp.prettier-vscode-5.0.0: esbenp.prettier-vscode
+[2020-06-14 20:24:51.564] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/esbenp.prettier-vscode-5.0.0
+[2020-06-14 20:24:51.568] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-06-14 20:24:51.580] [remoteagent] [info] Successfully installed the extension: esbenp.prettier-vscode
+[2020-06-14 20:25:11.078] [remoteagent] [info] Installing the extension: pkief.material-icon-theme
+[2020-06-14 20:25:13.675] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.pkief.material-icon-theme-4.1.0: pkief.material-icon-theme
+[2020-06-14 20:25:13.675] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/pkief.material-icon-theme-4.1.0
+[2020-06-14 20:25:13.676] [remoteagent] [info] Installation completed. pkief.material-icon-theme
+[2020-06-14 20:25:13.684] [remoteagent] [info] Successfully installed the extension: pkief.material-icon-theme
+[2020-06-14 20:25:40.234] [remoteagent] [info] Installing the extension: eamodio.gitlens
+[2020-06-14 20:25:41.612] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[2020-06-14 20:25:41.613] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/eamodio.gitlens-10.2.2
+[2020-06-14 20:25:41.641] [remoteagent] [info] Installation completed. eamodio.gitlens
+[2020-06-14 20:25:41.744] [remoteagent] [info] Successfully installed the extension: eamodio.gitlens
+[2020-06-14 20:29:28.571] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 20:29:28.571] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'

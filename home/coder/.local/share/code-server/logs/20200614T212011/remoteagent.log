@@ -1,0 +1,11 @@
+[2020-06-14 21:20:11.582] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 21:26:08.179] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 21:26:08.179] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 21:34:10.213] [remoteagent] [info] Installing extension: ms-python.python
+[2020-06-14 21:34:12.653] [remoteagent] [info] Downloaded extension: ms-python.python /tmp/b457b990-dc26-4662-8cd6-97035341c6de
+[2020-06-14 21:34:18.620] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.ms-python.python-2020.5.86806: ms-python.python
+[2020-06-14 21:34:18.621] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/ms-python.python-2020.5.86806
+[2020-06-14 21:34:18.645] [remoteagent] [info] Installation completed. ms-python.python
+[2020-06-14 21:34:18.696] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-06-14 21:39:49.584] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 21:39:49.584] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'

@@ -1,0 +1,52 @@
+[2020-06-14 05:41:24.162] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 05:44:50.198] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 05:44:53.232] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 05:44:53.232] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 06:03:27.963] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 06:03:34.281] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 06:03:34.281] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 15:08:58.097] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 15:09:00.631] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 15:09:00.631] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:35:27.160] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:35:36.886] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:35:36.886] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:36:00.017] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:36:03.478] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:36:03.479] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:37:29.029] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:37:33.936] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:37:33.937] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:37:56.579] [remoteagent] [error] Extension host stderr events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:100:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+
+[2020-06-14 18:38:46.790] [remoteagent] [error] Extension host stderr events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:100:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:68:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: -104,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+
+[2020-06-14 18:39:18.327] [remoteagent] [error] /home/coder/.local/share/code-server/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/.local/share/code-server/extensions"}
+[2020-06-14 18:39:24.578] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'
+[2020-06-14 18:39:24.578] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/coder/.local/share/code-server/Machine'

@@ -1,0 +1,9 @@
+out
+node_modules
+.vscode-test/
+*.vsix
+src/icons/svgs
+coverage/
+.nyc_output/
+_tmp-output-remote-icons
+.DS_Store

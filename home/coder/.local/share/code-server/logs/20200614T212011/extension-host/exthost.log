@@ -1,0 +1,29 @@
+[2020-06-14 21:26:52.931] [exthost] [info] extension host started
+[2020-06-14 21:27:25.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-14 21:27:25.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2020-06-14 21:27:25.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-14 21:27:25.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/extension
+[2020-06-14 21:27:25.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-14 21:27:25.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2020-06-14 21:27:25.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-14 21:27:25.670] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github-authentication/dist/extension.js
+[2020-06-14 21:27:25.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-14 21:27:25.692] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/extension
+[2020-06-14 21:27:25.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-14 21:27:25.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2020-06-14 21:27:25.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-14 21:27:25.705] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/vscode-account/dist/extension.js
+[2020-06-14 21:27:25.728] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-06-14 21:27:25.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/.local/share/code-server/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-06-14 21:27:25.829] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-06-14 21:27:25.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/.local/share/code-server/extensions/equinusocio.vsc-material-theme-32.6.0/build/material.theme.config
+[2020-06-14 21:27:25.845] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-06-14 21:27:25.845] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/.local/share/code-server/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-06-14 21:27:25.863] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-14 21:27:25.864] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/.local/share/code-server/extensions/esbenp.prettier-vscode-5.0.0/dist/extension
+[2020-06-14 21:27:25.995] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-06-14 21:27:25.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/coder/.local/share/code-server/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-06-14 21:27:26.023] [exthost] [info] eager extensions activated
+[2020-06-14 21:27:54.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-06-14 21:27:54.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/htmlMain
+[2020-06-14 21:27:54.127] [exthost] [warning] [Deprecation Warning] 'Webview vscode-resource: uris' is deprecated. Please migrate to use the 'webview.asWebviewUri' api instead: https://aka.ms/vscode-webview-use-aswebviewuri

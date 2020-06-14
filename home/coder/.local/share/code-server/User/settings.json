@@ -1,0 +1,7 @@
+{
+    "extensions.autoUpdate": false,
+    "telemetry.enableTelemetry": false,
+    "extensions.autoCheckUpdates": false,
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.colorTheme": "Material Theme High Contrast"
+}
