@@ -1,0 +1,10 @@
+version: "0.1"
+vscode:
+    image: codercom/code-server:3.4.1
+    volumes:
+        - ./extensions:/home/coder/extensions
+        - ./coder:/home/coder/user
+        - ./projects:/home/coder/project
+        - ./config:/home/coder/.config/code-server
+    command: --user-data-dir /home/coder/user --extensions-dir /home/coder/extensions --port 8443 --auth none
+    restart: always
